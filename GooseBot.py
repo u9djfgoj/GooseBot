@@ -99,4 +99,4 @@ async def unmute(ctx,member: nextcord.Member,):
 
 	# Connect
 
-client.run ('ODkzMDg4NTk5OTA0NDg5NDky.YVWXkw.uSlxHYKNp_MZYjgvRu2FxqSpNa0')
+client.run ('ODkzMDg4NTk5OTA0NDg5NDky.G24AjW.o6yrLjbranjo434BYtlqCXZSiewR0Cyt3Qo7Nw')
